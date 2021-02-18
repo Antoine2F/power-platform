@@ -64,11 +64,16 @@ Yes, you need a support plan to receive one-on-one technical support. Some subsc
 
 <table style="width:100%">
   <tr>
+    <th>Product</th>
     <th>Subscription (included)</th>
     <th>Professional Direct</th>
     <th>Premier Support</th>
     <th>Unified Support</th>
     <th></th>
+  </tr>
+  <tr> 
+    <td width="30%">Power Apps, Power Automate, Power Virtual Agents</td>
+    <td width="70%" colspan="4"><a href="https://admin.powerplatform.microsoft.com">Power Platform admin center</a></td>
   </tr>
   <tr> 
     <td width="30%">Customer engagement apps (such as Dynamics 365 Sales and Customer Service) and AI apps including mixed reality apps and Insights apps</td>
